@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+报告/
+_test_output/
+.vscode/*.log
+质量帧/
